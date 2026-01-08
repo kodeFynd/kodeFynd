@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jovan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning on Udemy
+- 🌱 I’m currently learning on The Odin Project
 - 📫 Contact: @jovatzaa
 - 😄 Pronouns: he/him
 
